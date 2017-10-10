@@ -1,0 +1,10 @@
+{
+  "name": "solar-months",
+  "version": "0.0.1",
+  "description": "Solar months calendar utilities",
+  "main": "dist/index.js",
+  "repository": "https://github.com/signaes/solar-months",
+  "author": "Thiago Oliveira <thiago@signaes.co>",
+  "license": "MIT",
+  "private": false
+}
